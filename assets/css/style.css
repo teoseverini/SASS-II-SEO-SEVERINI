@@ -2,7 +2,7 @@
 body {
   background-image: linear-gradient(black, #9f0000); }
 
-.título {
+.títuloServicios {
   color: red;
   font-size: 40px;
   text-align: center;
@@ -12,6 +12,15 @@ body {
   justify-content: center;
   margin-left: 760px;
   margin-right: 760px; }
+
+.títuloHistoria {
+  color: red;
+  font-size: 40px;
+  text-align: center;
+  background-color: #221b1b;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center; }
 
 p {
   color: white;
